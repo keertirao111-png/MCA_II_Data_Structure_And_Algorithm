@@ -11,7 +11,6 @@ This repository contains implementation of various data structure and algorithm 
 ```
 MCA_II_Data_Structure_And_Algorithm/
 ├── README.md
-├── .gitignore
 ├── practical_1.py      # Insert and Delete element at given position
 ├── practical_2.py     # Search element in a list
 ├── practical_3.py     # Basic operations on list
