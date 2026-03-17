@@ -34,21 +34,6 @@ MCA_II_Data_Structure_And_Algorithm/
 
 - Python 3.x installed on your system
 
-### Running the Programs
-
-```bash
-# Run any practical
-python practical_1.py
-
-python practical_2.py
-
-python practical_3.py
-
-python practical_4.py
-
-python practical_5.py
-```
-
 ## 🛠️ Technologies Used
 
 - **Language:** Python 3
@@ -61,16 +46,6 @@ python practical_5.py
 - Element search
 - Insertion and deletion
 - Matrix operations
-
-## 👨‍💻 Author
-
-- **Name:** Keerti Rao
-- **Course:** MCA (Master of Computer Applications) - 2nd Semester
-
-## 📄 License
-
-This project is for educational purposes.
-
 ---
 
 ⭐ Star this repository if you find it helpful!
